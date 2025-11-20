@@ -1,0 +1,1 @@
+This is my HTML/CSS project for Odin Project, open-source coding education. This assignment (Project: Landing Page), I will create sample of landing page combinded with HTML and CSS founcdation knowledge. 
